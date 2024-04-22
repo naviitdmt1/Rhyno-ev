@@ -1,0 +1,36 @@
+.cnt img{
+    margin: 30px;
+}
+
+.cnt h1{
+    color: #fff225;
+    font-size: 3rem;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    /* background-color: yellow; */
+    justify-content: center;
+}
+
+.citem {
+    /* background-color: blue; */
+    width: 300px;
+    height: 150px;
+    margin-left: 100px;
+    padding: 10px;
+    text-align: center;
+    line-height: 25px;
+}
+.citem h2{
+    color: #ff4242;
+    font-size: 30px;
+}
+
+.citem p {
+    margin: 0;
+    margin-top: 30px;
+    color: #f2f2f2;
+}

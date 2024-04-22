@@ -1,0 +1,23 @@
+.heading {
+    text-align: center;
+    font-family: 'poppins';
+    margin: 10px;
+    font-size: 40px;
+    color: #FFF225;
+}
+
+
+.firstp, .secondp {
+    margin: 20px 60px;
+    text-align: center;
+    color: #F2F2F2;
+}
+
+.main-img img{
+    margin-top: 50px;
+    width: 500px;
+}
+.main-img {
+    display: flex;
+    justify-content: center;
+}

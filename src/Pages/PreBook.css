@@ -1,0 +1,23 @@
+.order-now-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 250px;
+    height: 45px;
+    border-radius: 75px;
+    background: #ff4141;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px;
+    position: relative;
+    right: -800px;
+}
+
+.order-now-btn:hover {
+    cursor: pointer;
+    background: #fd2525;
+    color: white;
+
+}

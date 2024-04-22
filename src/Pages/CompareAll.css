@@ -1,0 +1,38 @@
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    margin: 30px;
+}
+
+table h2 {
+    color: #fff225;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #424242;
+    color: #fff225;
+}
+
+td {
+    color: #f2f2f2;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+h2 {
+    margin: 0;
+}
